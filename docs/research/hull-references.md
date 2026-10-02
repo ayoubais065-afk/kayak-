@@ -10,6 +10,30 @@
 
 **لكن هناك مراجع موثوقة لشكل الهيكل** (أكثر من 70%): رسومات مصنع أصلية، وبراءات اختراع رسمية فيها رسومات للهيكل من كل الجهات، منها منظر القاع من تحت. نستعملها لرسم الخطوط بأنفسنا في Maxsurf.
 
+## روابط التحميل المباشر
+
+اضغط على الرابط فيفتح الملف أو يُحمَّل مباشرة.
+
+### براءات الاختراع (PDF كامل بكل الرسومات)
+
+| البراءة | ما فيها | تحميل PDF |
+|---|---|---|
+| D337302: Hull configuration (Boston Whaler) | 7 مناظر للهيكل، 5 صفحات | [USD337302.pdf](https://patentimages.storage.googleapis.com/56/56/e9/c7be59443ea6a4/USD337302.pdf) |
+| USD348039: Tri-hull boat | 6 مناظر، منها **المنظر السفلي** | [USD348039.pdf](https://patentimages.storage.googleapis.com/ad/47/ee/825bf09f39fe96/USD348039.pdf) |
+| US6708642B1: Tri-sponson boat hull | 10 صفحات رسومات، ونص هندسي مفصل | [US6708642.pdf](https://patentimages.storage.googleapis.com/7c/38/05/17c095b5580aa6/US6708642.pdf) |
+
+### رسومات مصنع Boston Whaler 13
+
+| الرسم | الصيغة | رابط |
+|---|---|---|
+| الأبعاد الداخلية (Interior Dimensions) | JPEG | [13-foot762x408.jpeg](http://continuouswave.com/whaler/reference/13/graphics/13-foot762x408.jpeg) |
+| أماكن الخشب المدفون، كل الموديلات، حوالي 1966 | PDF | [BW13-wood.pdf](http://continuouswave.com/whaler/reference/13/graphics/BW13-wood.pdf) |
+| أماكن الخشب المدفون، 1977 وما بعده | GIF | [13Wood.gif](http://continuouswave.com/whaler/reference/13/graphics/13Wood.gif) |
+| أماكن الخشب المدفون، Sourpuss (1971-1972) | PDF | [Sourpuss-wood.pdf](http://continuouswave.com/whaler/reference/13/graphics/Sourpuss-wood.pdf) |
+| أماكن الخشب المدفون، 13GLS وAnniversary | PDF | [woodLocating13GLS_13Anniversary.pdf](http://continuouswave.com/whaler/reference/13/graphics/woodLocating13GLS_13Anniversary.pdf) |
+
+**نصيحة:** حمّل هذه الملفات واحفظها في `design/references/` في حاسوبك، ثم ارفعها إلى المستودع حتى تبقى عندك دائمًا.
+
 ## تقييم المصادر
 
 | المصدر | ما فيه | الموثوقية | يصلح لـ |
