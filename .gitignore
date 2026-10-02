@@ -1,0 +1,9 @@
+# Rhino backups and locks
+*.3dmbak
+*.rhl
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
